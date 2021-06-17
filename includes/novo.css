@@ -1,0 +1,26 @@
+body
+{
+	background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+#editar
+{
+	margin-right: 30px;
+}
+#arquivo
+{
+	margin-left: 334px;
+}
+#cadastrar
+{
+	margin-right: 500px;
+}
+#imagem
+{
+	border-radius: 50%;
+}
+#bu
+{
+	padding-left: 200px;
+}
